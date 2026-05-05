@@ -1,11 +1,9 @@
 ## Hi, I'm Maggie 👋
 
-**AI-native operator. Building systems that run businesses solo.**
+**Learning to build AI-native ops. Cross-border ads operator. Sharing the journey, not just the output.**
 
-- 🔧 Systems builder: data pipelines, agent workflows, automated decision loops  
-- 🧠 Systems thinker: architecture over features  
-- ✍️ Writing about AI toolchains, solo ops, and scalable management  
+- 🔧 Building: data pipelines, agent workflows, automated decision loops — one piece at a time
+- 🧠 Learning: systems thinking, AI toolchains, team management
+- ✍️ Writing about: AI tools, solo ops, and the messy process of figuring things out
 
-> "A good system makes people optional. A great system makes the founder optional."
-
-*Currently building in private. Public repos when the system is ready.*
+> "Still building. Still learning. Public when it's worth showing."
